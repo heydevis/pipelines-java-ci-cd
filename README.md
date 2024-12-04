@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/22351051/Practice-CI-CD/_apis/build/status%2Fheydevis.pipelines-java-ci-cd?branchName=main)](https://dev.azure.com/22351051/Practice-CI-CD/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
